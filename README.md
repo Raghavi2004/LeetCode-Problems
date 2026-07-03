@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Raghavi2004/LeetCode-Problems/tree/master/0054-spiral-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Raghavi2004/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Raghavi2004/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
