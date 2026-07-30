@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Raghavi2004/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Raghavi2004/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Raghavi2004/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 ## Divide and Conquer
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Raghavi2004/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Raghavi2004/LeetCode-Problems/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
