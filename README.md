@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raghavi2004/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Raghavi2004/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/Raghavi2004/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Raghavi2004/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 ## Divide and Conquer
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Raghavi2004/LeetCode-Problems/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Raghavi2004/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Raghavi2004/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Raghavi2004/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Raghavi2004/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Raghavi2004/LeetCode-Problems/tree/master/0013-roman-to-integer) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Raghavi2004/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
