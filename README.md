@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Raghavi2004/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Raghavi2004/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
